@@ -271,6 +271,7 @@ This table is not exhaustive. For a machine-readable registry of all known event
 | `30384`       | Addressable Trusted Assertion   | [85](85.md)                            |
 | `30402`       | Classified Listing              | [99](99.md)                            |
 | `30403`       | Draft Classified Listing        | [99](99.md)                            |
+| `30404`       | Classified Shop                 | [99](99.md)                            |
 | `30617`       | Repository announcements        | [34](34.md)                            |
 | `30618`       | Repository state announcements  | [34](34.md)                            |
 | `30818`       | Wiki article                    | [54](54.md)                            |
